@@ -1,0 +1,8 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\nse\downloads\microsoft band sdk and samples for windows\samples\hapticmetronome\notifications.windowsphone\obj\debug\intermediatexaml\hapticmetronome.windowsphone.exe" HashGuid="e300d419-aa8b-45ca-b30f-fe8aa7480e95" />
+    <ReferenceAssembly PathName="c:\users\nse\downloads\microsoft band sdk and samples for windows\samples\packages\microsoft.band.1.3.10929\lib\wpa81\microsoft.band.dll" HashGuid="6705b5bb-48c0-5c5d-c987-f3ebdb4e03eb" />
+    <ReferenceAssembly PathName="c:\users\nse\downloads\microsoft band sdk and samples for windows\samples\packages\microsoft.band.1.3.10929\lib\wpa81\microsoft.band.phone.dll" HashGuid="35d6f216-b665-aefe-02af-b55d218b7c51" />
+    <ReferenceAssembly PathName="c:\users\nse\downloads\microsoft band sdk and samples for windows\samples\packages\microsoft.band.1.3.10929\lib\wpa81\microsoft.band.store.dll" HashGuid="ac7b829b-d109-09c5-f061-1897783e0e25" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

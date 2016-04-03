@@ -1,0 +1,1 @@
+C:\Users\Nse\Downloads\Microsoft Band SDK and Samples for Windows\Samples\HapticMetronome\Notifications.WindowsPhone\Notifications.WindowsPhone.csproj;neutral
